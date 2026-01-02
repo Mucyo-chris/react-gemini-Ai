@@ -6,5 +6,3 @@ REACT-GEMINI-AI
  
   
   
- 
- 
