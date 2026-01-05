@@ -1,6 +1,1 @@
 REACT-GEMINI-AI
-
- 
-
- 
- 
